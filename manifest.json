@@ -1,0 +1,23 @@
+{
+  "name": "FlexVara Guide US — Joint Wellness Capsules",
+  "short_name": "FlexVara",
+  "description": "FlexVara pairs 500 mg NEM eggshell membrane with boswellia and turmeric in two daily capsules. Compare FlexVara packages, shipping and the 90-day guarantee.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbfaf7",
+  "theme_color": "#102b29",
+  "categories": ["health", "shopping", "lifestyle"],
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+# FlexVara
+
+> A single-page buyer's guide to FlexVara, the NUVICA Wellness joint wellness capsule, sold as 60 capsules per bottle and taken two capsules daily. Written for readers in the United States at https://us-flexvara.vercel.app/. Orders complete on the official checkout with ClickBank as retailer of record. Last reviewed 16 November 2026.
+
+FlexVara is built on NEM eggshell membrane rather than the glucosamine and chondroitin that dominate the joint-supplement shelf. A two-capsule serving supplies NEM eggshell membrane 500 mg, boswellia extract 150 mg, calcium 75 mg at 6% of the Daily Value, turmeric root extract 50 mg standardised to 95% curcuminoids, ginger root extract 20 mg, hydrolyzed collagen 5 mg and black pepper fruit extract 5 mg, for 805 mg of active material. Every amount is published individually and nothing is grouped into a blend total. Carrier ingredients are microcrystalline cellulose, hypromellose for the capsule shell, magnesium stearate and silicon dioxide. The label carries a CONTAINS EGG allergen declaration because the lead ingredient is derived from hen eggshells; the product is otherwise stated to be free of dairy, soy and gluten, and described as non-GMO. One bottle lasts 30 days, and the maker recommends at least three to six months of use. Packages cost $69, $59 and $49 per bottle for two, three and six bottles, with free US shipping and the newsletter bonus on the three and six bottle packages. Every package carries a 90-day money-back guarantee. One payment, no subscription. Sold to adults 18 and over.
+
+## Page sections
+
+- [FlexVara at a glance](https://us-flexvara.vercel.app/#snapshot): what the product is, what sets it apart and the two things that count against it.
+- [What goes into every FlexVara capsule](https://us-flexvara.vercel.app/#inside): all seven doses listed largest first, plus the carrier ingredients and capsule shell.
+- [Why FlexVara leads with eggshell membrane](https://us-flexvara.vercel.app/#membrane): what the membrane is, what it naturally contains and why the dose is shaped as one large anchor.
+- [The three botanicals inside FlexVara](https://us-flexvara.vercel.app/#botanicals): boswellia, turmeric at 95% curcuminoids and ginger, plus a wording mismatch on the official site.
+- [The FlexVara allergen to read before anything else](https://us-flexvara.vercel.app/#egg): the CONTAINS EGG declaration, and why joint-supplement buyers often check for the wrong allergen.
+- [Building a FlexVara routine that sticks](https://us-flexvara.vercel.app/#routine): two capsules, a full glass of water and the habit that decides the outcome.
+- [How FlexVara compares with a typical joint capsule](https://us-flexvara.vercel.app/#compare): eight points set against the usual glucosamine-led shelf formula.
+- [FlexVara strengths and trade-offs](https://us-flexvara.vercel.app/#balance): seven things the product gets right and seven to weigh before buying.
+- [FlexVara packages and what each one costs](https://us-flexvara.vercel.app/#packs): two, three and six-bottle options with per-bottle price, totals, shipping and daily cost.
+- [What the FlexVara guarantee actually covers](https://us-flexvara.vercel.app/#cover): the 90-day window, the unused-bottles wording and the mismatch with the usage advice.
+- [What happens after you order FlexVara](https://us-flexvara.vercel.app/#arrival): same-day dispatch, 7 to 10 business days in the US, and what the seller does not publish.
+- [The newsletter bonus that ships with FlexVara](https://us-flexvara.vercel.app/#extra): The NUVICA Collective, and which packages it is stated to come with.
+- [FlexVara in the bottle](https://us-flexvara.vercel.app/#gallery): the manufacturer's own product photographs and where buyer feedback is collected.
+- [Where FlexVara is manufactured](https://us-flexvara.vercel.app/#made): made in the USA from foreign and domestic ingredients, with no GMP or FDA-registration claim published.
+- [Health checks to make before taking FlexVara](https://us-flexvara.vercel.app/#checks): egg allergy, anticoagulants, pregnancy, surgery, calcium intake and diagnosed conditions.
+- [What to pair with FlexVara day to day](https://us-flexvara.vercel.app/#habits): movement, body weight, surrounding muscle, warming up and consistency.
+- [Common FlexVara questions](https://us-flexvara.vercel.app/#questions): ten questions on the formula, the egg allergen, dosing, duration, price, subscriptions, the bonus, refunds and where to buy.
+- [A short FlexVara label glossary](https://us-flexvara.vercel.app/#terms): NEM, eggshell membrane, standardised extract, curcuminoids, hydrolyzed collagen, Daily Value, hypromellose and non-GMO.
+- [How this FlexVara page was put together](https://us-flexvara.vercel.app/#source): sources used, what is flagged rather than tidied away, and the affiliate relationship.
+
+## Ordering
+
+- [Order FlexVara on the official checkout](https://wellnesspro360.com/order/flexvara): two bottles at $69 each ($138 plus $9.95 US shipping, about $2.30 a day before postage), three bottles at $59 each ($177 with free US shipping, about $1.97 a day), six bottles at $49 each ($294 with free US shipping, about $1.63 a day). The three and six bottle packages include The NUVICA Collective newsletter. One payment per package, no subscription, 90-day money-back guarantee on all three. ClickBank is the retailer of record. Prices read from the official order page on 16 November 2026.
+
+## Sources cited on this page
+
+- [NIAMS: osteoarthritis research and resources](https://www.niams.nih.gov/health-topics/osteoarthritis/more-info): the US institute covering arthritis and musculoskeletal conditions, with plain-language resources.
+- [MedlinePlus: osteoarthritis](https://medlineplus.gov/osteoarthritis.html): consumer background on joint conditions and what to raise with a clinician.
+- [NIH Office of Dietary Supplements: calcium](https://ods.od.nih.gov/factsheets/Calcium/): recommended intakes and upper limits, relevant to the 75 mg in each serving.
+- [NIH Office of Dietary Supplements: what you need to know](https://ods.od.nih.gov/factsheets/WYNTK-Consumer/): a plain-language primer on dietary supplements and how they are regulated.
+- [NIH LiverTox: turmeric](https://www.ncbi.nlm.nih.gov/books/NBK548561/): background on turmeric, including rare liver-injury reports that mostly involve high-dose curcumin products.
+- [FDA: dietary supplements](https://www.fda.gov/food/dietary-supplements): supplements sit under food law rather than medicines law in the United States.
+- [FTC: health claims](https://www.ftc.gov/business-guidance/advertising-marketing/health-claims): the advertising rules a supplement health claim has to meet.
+
+## Optional
+
+- [FlexVara sitemap](https://us-flexvara.vercel.app/sitemap.xml): the canonical URL and its images.
+- [FlexVara robots.txt](https://us-flexvara.vercel.app/robots.txt): crawling permissions, which allow all major search and AI crawlers.
+- [FlexVara agent-readable description](https://us-flexvara.vercel.app/.well-known/ard.json): structured formula, allergen, package, guarantee, comparison and FAQ records in ARD 0.91 format.
+
+## Disclosure
+
+- [Affiliate and medical disclosure](https://us-flexvara.vercel.app/#source): a commission may be paid when an order begins from a link here, with no effect on the checkout price. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. FlexVara contains egg. Joint conditions need proper medical diagnosis and care, and nothing here is medical advice.

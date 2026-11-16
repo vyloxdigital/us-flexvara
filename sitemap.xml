@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://us-flexvara.vercel.app/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://us-flexvara.vercel.app/images/flexvara-6-bottles-guarantee.webp</image:loc>
+      <image:title>FlexVara six-bottle package</image:title>
+      <image:caption>FlexVara six-bottle package shown with the 90-day money-back guarantee seal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://us-flexvara.vercel.app/images/flexvara-3-bottles-guarantee.webp</image:loc>
+      <image:title>FlexVara three-bottle package</image:title>
+      <image:caption>FlexVara three-bottle package with the money-back guarantee seal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://us-flexvara.vercel.app/images/flexvara-2-bottles-guarantee.webp</image:loc>
+      <image:title>FlexVara two-bottle package</image:title>
+      <image:caption>FlexVara two-bottle package with the money-back guarantee seal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://us-flexvara.vercel.app/images/flexvara-guarantee.webp</image:loc>
+      <image:title>FlexVara 90-day money-back guarantee</image:title>
+      <image:caption>FlexVara 90-day 100% money-back guarantee seal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://us-flexvara.vercel.app/images/flexvara-bonus-1.webp</image:loc>
+      <image:title>The NUVICA Collective newsletter</image:title>
+      <image:caption>The NUVICA Collective VIP health and wellness newsletter included with FlexVara orders</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://us-flexvara.vercel.app/images/flexvara-review-1.webp</image:loc>
+      <image:title>FlexVara bottle front</image:title>
+      <image:caption>FlexVara bottle photographed front on, showing the joint wellness label</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://us-flexvara.vercel.app/images/flexvara-review-2.webp</image:loc>
+      <image:title>FlexVara packaging detail</image:title>
+      <image:caption>FlexVara packaging showing the dietary supplement marking and serving information</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://us-flexvara.vercel.app/images/flexvara-review-3.webp</image:loc>
+      <image:title>FlexVara bottle with packaging</image:title>
+      <image:caption>FlexVara bottle photographed next to its outer packaging</image:caption>
+    </image:image>
+  </url>
+</urlset>
